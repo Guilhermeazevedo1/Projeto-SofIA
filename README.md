@@ -102,10 +102,11 @@ streamlit run app.py
 
 Navegue pelo menu lateral:
 
+- **Login**: Use `admin` como usuário e `1234` como senha para acessar o sistema.
 - **Cadastro**: adicionar estudantes e suas notas.
 - **Dashboard**: ver métricas e gráficos de estudantes e documentos.
-- **Conteúdo**: gerar conteúdos educativos com IA.
-- **Documentos**: enviar PDFs ou Excel e conversar com os documentos usando IA.
+- **Conteúdo**: gerar conteúdos educativos com IA. **Requer chave Groq configurada.**
+- **Documentos**: enviar PDFs ou Excel e conversar com os documentos usando IA. **Requer chave Groq configurada.**
 
 ## 📊 Funcionalidades do Dashboard
 
